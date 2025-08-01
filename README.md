@@ -1,38 +1,42 @@
 # Nepl Yatra 🇳🇵
 
-**Nepl Yatra** is a full-stack web application designed for renting vehicles in Nepal — including cars, bikes, scooters, and more. Whether you're a local or a tourist, Nepl Yatra makes it easy to find and book the perfect ride for your journey.
+**Nepl Yatra** is a simple and efficient vehicle rental web application built using the MERN stack. Users can browse and rent various types of vehicles such as cars, bikes, scooters, and more from different locations in Nepal.
 
 ---
 
-## 🌟 Features
+## 🚀 Features
 
-- 🚘 Rent cars, motorbikes, scooters, or vans
-- 🔎 Search and filter based on location, vehicle type, and availability
-- 🧾 User registration and booking history
-- 📍 Google Maps integration for pickup & drop-off
-- 📆 Real-time booking system with date/time selection
-- 💳 Payment gateway integration (planned)
+- 🛵 Browse different types of vehicles (cars, bikes, scooters, etc.)
+- 🗺️ Rent from multiple locations across Nepal
+- 🧾 Simple booking system with availability checks
+- 👤 User registration and login
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / Next.js / Tailwind CSS
-- **Backend:** Node.js / Express.js / MongoDB
-- **Authentication:** JWT / OAuth (planned)
-- **APIs:** Google Maps API, etc.
-- **Deployment:** Vercel / Render / MongoDB Atlas
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **State Management:** React Context API / Redux (if used)
+- **Styling:** Tailwind CSS or any CSS framework you used
 
 ---
 
-## 📌 Project Goals
+## 🎯 Project Goal
 
-- Support tourism and local travel in Nepal
-- Provide a smooth rental experience for all types of vehicles
-- Offer a scalable and secure rental solution for the Nepali market
+To create a user-friendly platform that allows people to rent vehicles easily from various places in Nepal, supporting both local travelers and tourists.
 
 ---
 
-## 📍 Status
+## 📌 Current Status
 
-🚧 Currently under development. Contributions and ideas are welcome!
+✅ In development  
+💡 New features and improvements coming soon!
+
+---
+
+## 📬 Contact
+
+For feedback or collaboration, feel free to open an issue or pull request.
